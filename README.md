@@ -1,3 +1,3 @@
 # SoundBlast
 Online music streaming app, made using Vite, React, Redux, Tailwind.
-You can visit the site here: 
+You can visit the site here: https://soundblast.netlify.app/
